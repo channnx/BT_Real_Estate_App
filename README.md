@@ -8,4 +8,6 @@
 
 ## close venv
     source ./venv/bin/deactivate
-    
+
+## create pages
+    python manage.py startapp pages
